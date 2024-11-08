@@ -1,4 +1,4 @@
-## 안녕하세요!👋 자바랑 코틀린을 좋아하는 backEnd 개발자입니다.
+## 안녕하세요!👋 자바랑 코틀린을 공부하는 backEnd 개발자입니다.
 
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gooddle)](https://github.com/gooddle/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooddle)](https://github.com/gooddle/github-readme-stats)
