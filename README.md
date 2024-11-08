@@ -1,4 +1,5 @@
-## Hi there 👋
+## 안녕하세요!👋
+## 자바랑 코틀린을 좋아하는 backEnd 개발자입니다.
 
 <!--
 **gooddle/gooddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
