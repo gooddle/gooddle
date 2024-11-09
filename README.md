@@ -1,4 +1,5 @@
-## 안녕하세요!👋 자바와 코틀린을 공부하는 백엔드 개발자입니다.
+<h3 align="center">Hello!👋 I am a back-end developer studying Java and Kotlin</h3>
+<div align="center">
 
 <h3 align="center">🖥️ Back-End</h3>
 <div align="center">
