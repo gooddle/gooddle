@@ -30,6 +30,6 @@
 <div align="center">
   
 [![gooddle GitHub stats](https://github-readme-stats.vercel.app/api?username=gooddle&count_private=true&include_all_commits=true&show_icons=true&theme=blue)](https://github.com/gooddle/github-readme-stats) 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooddle&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooddle)](https://github.com/gooddle/github-readme-stats)
 
 </div>
