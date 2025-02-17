@@ -31,8 +31,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooddle)](https://github.com/gooddle/github-readme-stats)
 
-<h3 align="center">blog</h3>
-<div align="center">
-Check out my blog for more updates and tutorials: [My Velog](https://velog.io/@your-username)](https://velog.io/@vptl7211/posts)
-
 </div>
