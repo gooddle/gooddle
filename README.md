@@ -28,7 +28,8 @@
 
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooddle)](https://github.com/gooddle/github-readme-stats)
+
+![gooddle's github stats](https://github-readme-stats.vercel.app/api?username=gooddle)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gooddle&layout=compact)
 
 </div>
