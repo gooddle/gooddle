@@ -1,5 +1,4 @@
 <h3 align="center">Hello! 👋 I am a back-end developer studying Kotlin and TypeScript</h3>
-<h4 align="center">현재 상태: 똑똑한 실수 디버깅 중 🤯</h4>
 
 <div align="center">
 
