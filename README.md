@@ -1,4 +1,4 @@
-<h3 align="center">Hello! 👋 I am a back-end developer studying Kotlin and TypeScript</h3>
+<h3 align="center">Hello! 👋 I am a back-end developer studying Kotlin and Python</h3>
 
 <div align="center">
 
