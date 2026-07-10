@@ -6,7 +6,7 @@
 
 ## 2. 경력
 
-**Backend Developer** · 2024.12 ~ 2026.06
+### 2.1 Backend Developer · 2024.12 ~ 2026.06
 
 이커머스 광고 성과 분석 도메인
 
@@ -16,7 +16,9 @@
 - 확장자 화이트리스트 + Apache Tika MIME 이중 검증으로 위장 파일 업로드 차단
 - Jsoup 기반 HTML 태그 화이트리스트 필터링으로 서버 레벨 XSS 방어
 
-**Backend Developer** · 2026.06 ~
+---
+
+### 2.2 Backend Developer · 2026.06 ~
 
 이커머스 도메인
 
