@@ -26,6 +26,8 @@
 
 - 국내외 이커머스 플랫폼의 물류·풀필먼트 연동 백엔드 개발 중
 
+---
+
 ## 3. 프로젝트
 
 **[web-hacking-playground](https://github.com/gooddle/web-hacking-playground)**
