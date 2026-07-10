@@ -22,7 +22,7 @@
 
 `Python` `FastAPI` `AWS Lambda` `Kubernetes` `ECR` `CloudWatch` `Claude Code` `Codex` `Superpowers`
 
-- 이커머스 플랫폼 백엔드 개발 중
+- 국내외 이커머스 플랫폼의 물류·풀필먼트 연동 백엔드 개발 중
 
 ## 3. 프로젝트
 
