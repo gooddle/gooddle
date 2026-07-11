@@ -10,7 +10,7 @@
 
 이커머스 광고 성과 분석 도메인
 
-`Kotlin` `Spring Boot` `Exposed` `MySQL` `AWS (EC2, RDS, S3)` `Docker` `CloudWatch`
+`Kotlin` `Spring Boot` `Exposed` `MySQL` `AWS (EC2, RDS, S3)` `Docker` `CloudWatch` `Restful Api` 
 
 - OOM/Deadlock/N+1을 직접 진단하고 구조적으로 해결
 - 확장자 화이트리스트 + Apache Tika MIME 이중 검증으로 위장 파일 업로드 차단
@@ -22,7 +22,7 @@
 
 이커머스 도메인
 
-`Python` `FastAPI` `PostgreSQL` `AWS Lambda` `Kubernetes` `ECR` `CloudWatch` `Claude Code` `Codex` `Superpowers`
+`Python` `FastAPI` `PostgreSQL` `AWS Lambda` `Kubernetes` `ECR` `CloudWatch` `Claude Code` `Codex` `Superpowers` `graphql` 
 
 - 국내외 이커머스 플랫폼의 물류·풀필먼트 연동 백엔드 개발 중
 
