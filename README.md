@@ -22,7 +22,7 @@
 
 이커머스 도메인
 
-`Python` `FastAPI` `PostgreSQL` `AWS Lambda` `Kubernetes` `ECR` `CloudWatch` `Claude Code` `Codex` `Superpowers` `graphql` 
+`Python` `FastAPI` `Claude Code` `Codex` `Superpowers` `graphql` 
 
 - 국내외 이커머스 플랫폼의 물류·풀필먼트 연동 백엔드 개발 중
 
